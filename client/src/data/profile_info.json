@@ -2,9 +2,9 @@
     "basic_info": {
         "image": "profile-pic.jpg",
         "name": {
-            "first_name": "Lorem ",
-            "middle_name": "elit",
-            "last_name": "Ipsum",
+            "first_name": "Shivangi ",
+            "middle_name": "Ajaykumar",
+            "last_name": "Bhatt",
             "order": [
                 "first_name",
                 "middle_name",
@@ -12,7 +12,7 @@
             ]
         },
         "pronouns": {
-            "value": "he_him",
+            "value": "she_her",
             "emoji": "&#128102;"
         }
     },
